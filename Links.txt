@@ -1,0 +1,6 @@
+
+			ISSUE TRACKER APPLICATION
+
+Frontend Github Repo - https://github.com/yuvaraj-LR/Issue_Tracker_Frontend
+
+Backend Github Repo - https://github.com/yuvaraj-LR/Issue_Tracker_Backend
